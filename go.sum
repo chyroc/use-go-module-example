@@ -1,0 +1,4 @@
+github.com/chyroc/go-module-example v0.0.0-20200315065852-29ed4dc72f34 h1:oAi2egno+KicIOmzlk8AMncNs1oOpgvfr9xv4ZOlkew=
+github.com/chyroc/go-module-example v0.0.0-20200315065852-29ed4dc72f34/go.mod h1:ax0l8AFGQAfDEZua0a+abMPFvWu6JP9BeB0X5lrcc1U=
+github.com/chyroc/go-module-example/v2 v2.0.0 h1:ouhoLDiEOx81Mm2BIVX+eIX6eKj4iqxQxyB8XPwrxt4=
+github.com/chyroc/go-module-example/v2 v2.0.0/go.mod h1:neXZwy5BTa7vG8UYSEl13h+UHZVGSB8GVfuJM80f3Do=
